@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ffc-helm-library:
+  - apiVersion: v2
+    created: "2020-03-29T15:15:46.7408348+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 713930b45230591d0d142b3a70294807e55af5ebd2c25128acb90f93a62e6a8f
+    name: ffc-helm-library
+    type: library
+    urls:
+    - ffc-helm-library-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-03-29T15:15:46.7394882+01:00"
