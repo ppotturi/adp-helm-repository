@@ -2,17 +2,7 @@ apiVersion: v1
 entries:
   ffc-helm-library:
   - apiVersion: v2
-    created: "2020-06-02T09:28:02.461247+01:00"
-    description: A Helm library chart that captures general configuration for the
-      FFC Kubernetes platform
-    digest: a7ce1c0f304ab175b97b5d0fc31748fa8e2e0d57a88107fb1d54c1410f31eb02
-    name: ffc-helm-library
-    type: library
-    urls:
-    - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.1.0.tgz
-    version: 1.1.0
-  - apiVersion: v2
-    created: "2020-06-02T09:28:02.460923+01:00"
+    created: "2020-06-02T12:18:39.282181+01:00"
     description: A Helm library chart that captures general configuration for the
       FFC Kubernetes platform
     digest: 557dfe6e9cf48bd129485fe893eacb0d4e59519b7ba43df3fe8c590c8b841c54
@@ -22,7 +12,7 @@ entries:
     - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2020-06-02T09:28:02.460331+01:00"
+    created: "2020-06-02T12:18:39.281868+01:00"
     description: A Helm library chart that captures general configuration for the
       FFC Kubernetes platform
     digest: b7f1bf457102fd9e11ba00369441a3beb5320785fd5e0b0e8fc73f38fd21ec56
@@ -32,7 +22,7 @@ entries:
     - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2020-06-02T09:28:02.459726+01:00"
+    created: "2020-06-02T12:18:39.281548+01:00"
     description: A Helm library chart that captures general configuration for the
       FFC Kubernetes platform
     digest: 04637811cefc7185ed3a41bcec7a1e622ab9b646102e06fe7ade227d02d5b43b
@@ -42,7 +32,7 @@ entries:
     - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2020-06-02T09:28:02.458888+01:00"
+    created: "2020-06-02T12:18:39.280706+01:00"
     description: A Helm library chart that captures general configuration for the
       FFC Kubernetes platform
     digest: bf063264d52aae4f64a11a67bcca2332c10fe24caa044da32ea562dc9646a612
@@ -51,4 +41,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/defra/ffc-helm-repository/master/ffc-helm-library-1.0.0.tgz
     version: 1.0.0
-generated: "2020-06-02T09:28:02.456435+01:00"
+generated: "2020-06-02T12:18:39.280203+01:00"
