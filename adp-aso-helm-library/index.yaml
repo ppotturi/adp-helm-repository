@@ -2,7 +2,17 @@ apiVersion: v1
 entries:
   adp-aso-helm-library:
   - apiVersion: v2
-    created: "2023-11-01T17:10:52.018162Z"
+    created: "2023-11-01T21:04:50.9103796Z"
+    description: A Helm chart library that captures general configuration for Azure
+      Service Operator (ASO) resources.
+    digest: 2b2129f1da52402b837e79bd64864e2ef6c7e2154b5a40de09c17caa8db184ae
+    name: adp-aso-helm-library
+    type: library
+    urls:
+    - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    created: "2023-11-01T21:04:50.9103796Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: a0a6d576e2debc01127f1712a061b0c66a3b754ef6e50b48cdf2e21fddec53ea
@@ -12,7 +22,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2023-11-01T17:10:52.018162Z"
+    created: "2023-11-01T21:04:50.9008456Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: 501d78c3c22737847a394d5a20b3b6be9cafe0a3cd47d9024336d446cfe780ed
@@ -22,7 +32,7 @@ entries:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2023-11-01T17:10:52.0176335Z"
+    created: "2023-11-01T21:04:50.9008456Z"
     description: A Helm chart library that captures general configuration for Azure
       Service Operator (ASO) resources.
     digest: f615f08c26b5f4a67891c4082db91e813cbfda114fc3d44c20b2eda20f59794e
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-aso-helm-library/adp-aso-helm-library-1.0.0.tgz
     version: 1.0.0
-generated: "2023-11-01T17:10:52.0160623Z"
+generated: "2023-11-01T21:04:50.9008456Z"
