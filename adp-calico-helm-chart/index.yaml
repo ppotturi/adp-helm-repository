@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   adp-calico-helm-chart:
   - apiVersion: v2
-    created: "2024-02-21T11:49:56.2253517Z"
+    created: "2024-02-21T12:05:30.1115297Z"
     description: ADP Calico Helm Chart
     digest: 0a2b09bc21ccacb5560a9debd3c26dbb6d9d483f7bba867b735d7b365c13fe36
     name: adp-calico-helm-chart
     urls:
     - https://raw.githubusercontent.com/defra/adp-helm-repository/main/adp-calico-helm-chart/adp-calico-helm-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2024-02-21T11:49:56.2253517Z"
+generated: "2024-02-21T12:05:30.1110176Z"
